@@ -1,5 +1,4 @@
 hola soy omar estoy probando git con platzi
 
 haciendo mi primer commit
-hoy hablaremos de mi vida
-y obra maestras
+mañana seguiremos aprendiendo para su vida laboral
