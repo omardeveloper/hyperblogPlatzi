@@ -3,4 +3,6 @@ hola soy omar estoy probando git con platzi
 haciendo mi primer commit
 
 esta linea es del colaborador
+
+ahora esto es desde el fork que hice
 mañana seguiremos aprendiendo para su vida laboral
