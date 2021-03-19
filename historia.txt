@@ -8,4 +8,6 @@ ahora esto es desde el fork que hice
 
 master 1 rebase
 
+master 2 rebase
+
 mañana seguiremos aprendiendo para su vida laboral
