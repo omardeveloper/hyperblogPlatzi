@@ -6,6 +6,8 @@ esta linea es del colaborador
 
 ahora esto es desde el fork que hice
 
+experimento 1
+
 master 1 rebase
 
 master 2 rebase
